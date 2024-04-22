@@ -1,4 +1,4 @@
-## Adel BASLI - Lead Data Scientist
+## Adel BASLI - Team Lead Data Science & AI
 
 Welcome to my GitHub page! I am Adel BASLI, a Data Scientist with a strong foundation in applied mathematics. I graduated from École Centrale Paris, one of the most prestigious engineering institutions in France.
 
