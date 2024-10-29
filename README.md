@@ -6,4 +6,4 @@ I bring a unique perspective to data analysis and problem-solving, combining the
 
 On this page, you will find links to my repositories, which contain code, datasets, and other resources related to my work. I also welcome you to reach out to me for any collaboration, data science opportunities, or further inquiries.
 
-https://adelbasli.com
+www.adelbasli.com
